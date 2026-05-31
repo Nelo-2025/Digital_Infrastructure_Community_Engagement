@@ -13,41 +13,52 @@ family focused organisation use manual record keeping to manage weekly events as
 ### Operational Intelligence Architecture
 To move the organisation from fragmented paper-based logging to a digital infrastructure, I architected and deployed a centralized data pipeline and analytics dashboard. This dashboard functions as a critical business intelligence tool, providing local authorities and institutional donors with verifiable and audited impact metrics.
 
-![**Stay and Play $6$-Months Performance Dashboard**]<img width="1263" height="687" alt="image" src="https://github.com/user-attachments/assets/657ef34d-4a7f-45b1-8062-652d57cbe00d" />
+![**Stay and Play $6$-Month Performance Dashboard**]<img width="1218" height="685" alt="image" src="https://github.com/user-attachments/assets/5a818dd8-d85a-4496-8e33-ed7c09af56f3" />
+
 
 
 ###  Technical Stack & Data Pipeline
- **Ingestion:** Designed a structured data collection system using excel and google sheets, enabling collaborative ingestion of community engagement data across the team.
- **ETL / Data Engineering:** [Power BI/ Python / Jupyter / Notebook] utilized for data cleaning, structural normalization of age bands, and calculation of operational rates.
-**Visualization Layer:** Built a responsive BI interface tracking key performance indicators (KPIs) across attendance dynamics, programmatic resource deployment, and early-years developmental metrics.
+
+- **Ingestion:** Designed a structured data collection system using excel and google sheets, enabling collaborative ingestion of community engagement data across the team.
+ 
+ - **ETL / Data Engineering:** [Power BI] utilized for data cleaning, structural normalization of age bands, and calculation of operational rates.
+ 
+- **Visualization Layer:** Built a responsive BI interface tracking key performance indicators (KPIs) across attendance dynamics, programmatic resource deployment, and early-years developmental metrics.
 
 ### Key Metrics Engineered & Strategic Outcomes
 
 #### 1. Scale & Retention Telemetry
-* **KPIs Tracked:** Total Sessions ($19$ sessions in 2025) and Trend of Repeat Participants ($164$).
-* **Strategic Impact:** Proves sustained user engagement and community trust. Demonstrating a high volume of repeat participants ($164$ users across $19$ sessions) serves as an essential metric for local councils evaluating long-term community retention and social isolation mitigation.
+
+- **KPIs Tracked:** Total Sessions ($19$ sessions in 2025) and Trend of Repeat Participants ($164$).
+
+- **Strategic Impact:** Proves sustained user engagement and community trust. Demonstrating a high volume of repeat participants ($164$ users across $19$ sessions) serves as an essential metric for local councils evaluating long-term community retention and social isolation mitigation.
 
 #### 2. Resource Allocation & Operational Compliance
-* **KPIs Tracked:** Lunch Provided Rate ($74\%$) and Average Session Participation ($9$ children/session).
-* **Strategic Impact:** Validates operational capability and funding compliance. Proving that nearly three-quarters of sessions successfully provisioned meals directly supports the group's case for regional poverty alleviation grants.
+
+- **KPIs Tracked:** Lunch Provided Rate ($74\%$) and Average Session Participation ($9$ children/session).
+
+- **Strategic Impact:** Validates operational capability and funding compliance. Proving that nearly three-quarters of sessions successfully provisioned meals directly supports the group's case for regional poverty alleviation grants.
 
 #### 3. Early Years Developmental Analytics (Age-Band Granularity)
-* **KPIs Tracked:** Activity distribution across parsed age cohorts (ranging from $0.11 - 4$ years up to $0.6 - 6$ years), comparing structured group activities (Nursery Rhymes vs. Story Time) against structured toy interactions and individual play metrics.
-* **Strategic Impact:** Translates raw attendance into actionable early-years development data. The structured breakdown of "Toys Interaction Days by Age Band" allows the group to optimize their toy inventory and activity planning based on the exact demographic trends of the children attending.
+
+- **KPIs Tracked:** Activity distribution across parsed age cohorts (ranging from $0.11 - 4$ years up to $0.6 - 6$ years), comparing structured group activities (Nursery Rhymes vs. Story Time) against structured toy interactions and individual play metrics.
+
+- **Strategic Impact:** Translates raw attendance into actionable early-years development data. The structured breakdown of "Toys Interaction Days by Age Band" allows the group to optimize their toy inventory and activity planning based on the exact demographic trends of the children attending.
 
 
 
 
 ### Result
 
-1.	**Data-driven funding acquisition:** translated qualitative operational metrics into hard, visual statistics, providing the quantitative proof-of-impact required to secure local authority funding and donors.
-2.	**Resource optimisation:** uncovered exact correlations between child age brackets and programmatic needs, leading to a 74% precision rate in meal provision management and targeted toy inventory budgeting.
+-	**Data-driven funding acquisition:** translated qualitative operational metrics into hard, visual statistics, providing the quantitative proof-of-impact required to secure local authority funding and donors.
+   
+-	**Resource optimisation:** uncovered exact correlations between child age brackets and programmatic needs, leading to a 74% precision rate in meal provision management and targeted toy inventory budgeting.
 
 
 ###  Measurable Community Impact engineered for Social Good
 
- **Data Leadership as a Sole Contributor:** Demonstrates the ability to build an end-to-end data product entirely from scratch—from data strategy and schema design to frontend data visualization.
+ - **Data Leadership as a Sole Contributor:** Demonstrates the ability to build an end-to-end data product entirely from scratch—from data strategy and schema design to frontend data visualization.
  
- **Digital Innovation for Social Good:** Harnesses commercial-grade product analytics methodologies to scale the operational capacity of a grassroots community initiative.
+ - **Digital Innovation for Social Good:** Harnesses commercial-grade product analytics methodologies to scale the operational capacity of a grassroots community initiative.
  
- **Data-Driven Storytelling:** Provides potential donors with automated, clear, visual data assets, removing the reliance on anecdotal reporting.
+ - **Data-Driven Storytelling:** Provides potential donors with automated, clear, visual data assets, removing the reliance on anecdotal reporting.
