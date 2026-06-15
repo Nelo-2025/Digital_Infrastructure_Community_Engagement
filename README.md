@@ -2,8 +2,7 @@
 
 ### Strategic Leadership Impact and Executive Summary
 
-An interactive analytics ecosystem and end-to-end data pipeline called "data infrastructure for social impact" was created to assess and improve early-year community involvement sessions. Before this deployment, community organisers used a fragmented, paper-based weekly record, which made funding allocation and resource scaling ineffective.
-I created a grant-ready impact report as the only Data Science Lead for this project so that local event planners could gauge social impact and scope.
+I am building an interactive analytics dashboard and end-to-end data pipeline to support data entry and analysis for social impact. This is to assess and improve early-year community involvement sessions. Before this deployment, community organisers manually record events, which made funding allocation and resource scaling ineffective. I created a grant-ready impact report for this project so that local event planners could gauge social impact and scope.
 
 
 ### Problem Statement
@@ -12,7 +11,7 @@ A family-focused organisation fails to quantify effect and produce data-driven i
 
  
 ### Operational Intelligence Architecture
- I architected and deployed a centralised data pipeline and analytics dashboard to move the organisation from fragmented paper-based logging to a digital infrastructure. This dashboard functions as a critical business intelligence tool, providing local authorities and institutional donors with verifiable and audited impact metrics.
+ I architected and deployed a centralised data pipeline and analytics dashboard to move the organisation from fragmented paper-based logging to a digital infrastructure. This dashboard would serve as a business intelligence tool, providing local authorities and institutional donors with verifiable impact metrics.
 
 ![**Stay and Play $6$-Month Performance Dashboard**]<img width="1218" height="685" alt="image" src="https://github.com/user-attachments/assets/5a818dd8-d85a-4496-8e33-ed7c09af56f3" />
 
