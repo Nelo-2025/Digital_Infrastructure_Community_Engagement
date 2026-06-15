@@ -19,9 +19,9 @@ To move the organisation from fragmented paper-based logging to a digital infras
 
 ###  Technical Stack & Data Pipeline
 
-- **Ingestion:** Designed a structured data collection system using excel and google sheets, enabling collaborative ingestion of community engagement data across the team.
+- **Ingestion:** Designed a structured data collection system using [`excel`] and [`google sheets`], enabling collaborative ingestion of community engagement data across the team.
  
- - **ETL / Data Engineering:** [Power BI] utilized for data cleaning, structural normalization of age bands, and calculation of operational rates.
+ - **ETL / Data Engineering:** [`Power BI`] utilized for data cleaning, structural normalization of age bands, and calculation of operational rates.
  
 - **Visualization Layer:** Built a responsive BI interface tracking key performance indicators (KPIs) across attendance dynamics, programmatic resource deployment, and early-years developmental metrics.
 
