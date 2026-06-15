@@ -56,8 +56,8 @@ A family-focused organisation fails to quantify effect and produce data-driven i
 
 ###  Measurable Community Impact engineered for Social Good
 
- - **Data Leadership as a Sole Contributor:** Demonstrates the ability to build an end-to-end data product entirely from scratch—from data strategy and schema design to frontend data visualisation.
- 
- - **Digital Innovation for Social Good:** Harnesses commercial-grade product analytics methodologies to scale the operational capacity of a grassroots community initiative.
- 
- - **Data-Driven Storytelling:** Provides potential donors with automated, clear, visual data assets, removing the reliance on anecdotal reporting.
+ - **Data Leadership as a Sole Contributor:** demonstrates the ability to build an end-to-end data product entirely from scratch—from data strategy and schema design to frontend data visualisation.
+ 
+ - **Digital Innovation for Social Good:** harnesses commercial-grade product analytics methodologies to scale the operational capacity of a grassroots community initiative.
+ 
+ - **Data-Driven Storytelling:** provides potential donors with automated, clear, visual data assets, removing the reliance on anecdotal reporting.
