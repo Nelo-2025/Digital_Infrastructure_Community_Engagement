@@ -19,8 +19,8 @@ A family-focused organisation require support to manages weekly events through d
 ###  Technical Stack
 
 - **Ingestion:** Designed a structured data collection system using [`Excel`] and [`Google Sheets`], enabling collaborative ingestion of community engagement data.
- 
- - **Data Engineering :** [`Power BI`] utilised for data analysis
+
+- **Data Engineering :** [`Power BI`] utilised for data analysis
  
 - **Visualisation Layer:** Built a responsive interface tracking key performance metrics across activity and engagement dynamic, program resource deployment, and early-years developmental indicators.
 
