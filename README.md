@@ -16,20 +16,20 @@ A family-focused organisation require support to manages weekly events through d
 ![**Stay and Play $6$-Month Performance Dashboard**]<img width="1218" height="685" alt="image" src="https://github.com/user-attachments/assets/5a818dd8-d85a-4496-8e33-ed7c09af56f3" />
 
 
-###  Technical Stack & Data Pipeline
+###  Technical Stack
 
-- **Ingestion:** Designed a structured data collection system using [`Excel`] and [`Google Sheets`], enabling collaborative ingestion of community engagement data across the team.
+- **Ingestion:** Designed a structured data collection system using [`Excel`] and [`Google Sheets`], enabling collaborative ingestion of community engagement data.
  
- - **ETL / Data Engineering:** [`Power BI`] utilised for data cleaning, structural normalisation of age bands, and calculation of operational rates.
+ - **Data Engineering :** [`Power BI`] utilised for data analysis
  
-- **Visualisation Layer:** Built a responsive BI interface tracking key performance indicators (KPIs) across attendance dynamics, programmatic resource deployment, and early-years developmental metrics.
+- **Visualisation Layer:** Built a responsive interface tracking key performance metrics across activity and engagement dynamic, program resource deployment, and early-years developmental indicators.
 
 
 
-###  Measurable Community Impact engineered for Social Good
+###  Measurable Community Impact
 
- - **Data Leadership as a Sole Contributor:** demonstrates the ability to build an end-to-end data product entirely from scratch, from data strategy and schema design to frontend data visualisation.
+- **Programme support Lead:** I demonstrate the ability to build data infrastructure as a product from scratch, from data strategy and schema design to data visualisation.
  
- - **Digital Innovation for Social Good:** harnesses commercial-grade product analytics methodologies to scale the operational capacity of a grassroot community initiative.
+ - **Digital Innovation:** I harnes commercial-grade product analytics methodologies to scale the operational capacity of a grassroot community initiative.
  
- - **Data-Driven Storytelling:** provides potential donors with automated, clear, visual data assets, removing the reliance on manual reporting.
+ - **Data-Driven insight:** I provide potential donors with automated and visual insights. Removing the reliance on manual reporting.
